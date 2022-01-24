@@ -6,6 +6,7 @@ echo starting start.bat // C:\WORKS_2\WS\WS_Others.miscs\misc_files
 REM =================================
 REM 	log file
 REM 	browser
+REM 	photo : diary : symbols
 REM =================================
 
 REM =================================
@@ -52,6 +53,12 @@ rem launcher.exe %url_1% %url_2% %url_3% %url_4% %url_5% %url_6%
 
 REM launcher.exe "http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=ìåòa+ì˙éè&RBs_AND_OR_Memo=AND&sort=file_name&direction=desc"
 
+
+REM =================================
+REM 	photo : diary : symbols
+REM 	2022îN1åé17ì˙16:56:45
+REM =================================
+C:\WORKS_2\WS\WS_Others.miscs_20211102_112807\misc_files\towa-related\2020-03-09_14-41-41_000.jpg
 
 :end_of_end
 
