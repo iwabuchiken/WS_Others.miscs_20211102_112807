@@ -34,6 +34,11 @@ set url_4=http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/39970
 
 rem set url_5="https://mail.google.com/mail/ca/u/0/#search/diary+towa?compose=jrjtXFBVVNZLVRnTMtvQHtvHNkmwMrDwznhgwmRJBRCWzJCjjsnhwJdfwrdlXzhNdTLvLHJJ"
 
+rem : 2022”N1ŒŽ31“ú10:59:41
+set url_5="https://translate.google.co.jp/?hl=ja&sl=ko&tl=ja&op=translate"
+
+set url_6="https://translate.google.co.jp/?hl=ja&sl=ja&tl=ko&op=translate"
+
 rem : stopwatch
 rem set url_6="https://stopwatch-app.com"
 
