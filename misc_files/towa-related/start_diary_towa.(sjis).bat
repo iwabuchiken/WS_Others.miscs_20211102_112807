@@ -50,9 +50,11 @@ REM launcher.exe %url_1%
 
 set list_of_url=%url_1% %url_2% %url_3% %url_4% %url_5% %url_6%
 
-pushd "C:\Program Files\Mozilla Firefox"
+rem : c/o : 2022”N3ŒŽ17“ú8:58:49
+rem pushd "C:\Program Files\Mozilla Firefox"
 
-firefox.exe  %list_of_url%
+rem : c/o : 2022”N3ŒŽ17“ú8:58:49
+rem firefox.exe  %list_of_url%
 
 rem launcher.exe %url_1% %url_2% %url_3% %url_4% %url_5% %url_6%
 
